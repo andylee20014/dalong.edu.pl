@@ -19,7 +19,7 @@ export const zh = defineConfig({
 
         footer: {
             message: '基于 MIT 许可发布',
-            copyright: `版权所有 © 2023-${new Date().getFullYear()} Dream Hunter`
+            copyright: `版权所有 © 2023-${new Date().getFullYear()} Dalong.AI`
         },
 
         docFooter: {

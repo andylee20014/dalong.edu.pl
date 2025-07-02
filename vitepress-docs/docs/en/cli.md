@@ -119,7 +119,7 @@ ENABLE_AUTO_REPLY = false
 # Allow webhook
 # ENABLE_WEBHOOK = true
 # Footer text
-# COPYRIGHT = "Dream Hunter"
+# COPYRIGHT = "Dalong.AI"
 # DISABLE_SHOW_GITHUB = true # Disable Show GitHub link
 # default send balance, if not set, it will be 0
 # DEFAULT_SEND_BALANCE = 1
